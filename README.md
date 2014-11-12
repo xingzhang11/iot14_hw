@@ -1,2 +1,3 @@
-iot14_hw
+my first repository for IOT class at Parsons.
 ========
+
